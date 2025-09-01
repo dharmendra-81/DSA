@@ -1,0 +1,20 @@
+---
+source: BCS151
+type: Beginner
+number: "10"
+---
+
+```c
+#include<stdio.h>
+
+int main(){
+  int n,i,sum=0;
+  printf("enter a positive integer:");
+    scanf("%d",&n);
+  for(i=1;i<=n;i++){
+    sum=sum+i;
+  }  
+  printf("sum = %d",sum);
+  return 0;
+}
+```
