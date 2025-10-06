@@ -101,3 +101,20 @@ This repository contains a collection of Data Structures and Algorithms implemen
 10. [Count inversions in an array](./Array/Hard/Count%20inversions.md)
 11. [Count Reverse Pairs](./Array/Hard/493.%20Reverse%20Pairs.md)
 12. [Maximum Product Subarray in an Array](./Array/Hard/152.%20Maximum%20Product%20Subarray.md)
+
+## 7. Binary Search
+**BS on !D Arrays**
+1. [Implement Lower Bound](./Binary%20Search/BS%20on%201D%20arrays/Implement%20Lower%20Bound.md)
+2. [Implement Upper Bound](./Binary%20Search/BS%20on%201D%20arrays/Implement%20Upper%20Bound.md)
+3. [Search Insert Position](./Binary%20Search/BS%20on%201D%20arrays/35.%20Search%20Insert%20Position.md)
+4. [Floor/Ceil in Sorted Array](./Binary%20Search/BS%20on%201D%20arrays/Floor%20and%20Ceil.md)
+5. [Find the first or last occurrence of a given number in a sorted array](./Binary%20Search/BS%20on%201D%20arrays/34.%20First%20and%20Last%20Position.md)
+6. [Count occurrences of a number in a sorted array with duplicates](./Binary%20Search/BS%20on%201D%20arrays/Count%20Occurrences.md)
+7. [Search in Rotated Sorted Array I](./Binary%20Search/BS%20on%201D%20arrays/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+8. [Search in Rotated Sorted Array II](./Binary%20Search/BS%20on%201D%20arrays/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)
+9. [Find minimum in Rotated Sorted Array](./Binary%20Search/BS%20on%201D%20arrays/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+10. [Find out how many times has an array been rotated](./Binary%20Search/BS%20on%201D%20arrays/how%20many%20times%20the%20array%20has%20been%20rotated.md)
+11. [Single element in a Sorted Array](./Binary%20Search/BS%20on%201D%20arrays/540.%20Single%20Element%20in%20a%20Sorted%20Array.md)
+12. [Find peak element](./Binary%20Search/BS%20on%201D%20arrays/162.%20Find%20Peak%20Element.md)
+
+To be continued...

@@ -19,6 +19,17 @@ int binarySearch(int a[], int size, int key)
     return -1;
 }
 
+//Recursive
+int binarySearch(int A[], int low, int high, int key){
+    if(low > high) return -1;
+    int mid=(low + high)/2;
+    if(key > A[mid]) 
+        return binarySearch(A, mid+1, high, key);
+    else if(key < A[mid]) 
+        return binarySearch(A, low, mid-1, key);
+    return mid;
+}
+
 int main()
 {
     int key, n;
