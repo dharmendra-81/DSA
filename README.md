@@ -103,7 +103,7 @@ This repository contains a collection of Data Structures and Algorithms implemen
 12. [Maximum Product Subarray in an Array](./Array/Hard/152.%20Maximum%20Product%20Subarray.md)
 
 ## 7. Binary Search
-**BS on !D Arrays**
+**BS on 1D Arrays**
 1. [Implement Lower Bound](./Binary%20Search/BS%20on%201D%20arrays/Implement%20Lower%20Bound.md)
 2. [Implement Upper Bound](./Binary%20Search/BS%20on%201D%20arrays/Implement%20Upper%20Bound.md)
 3. [Search Insert Position](./Binary%20Search/BS%20on%201D%20arrays/35.%20Search%20Insert%20Position.md)
@@ -116,5 +116,22 @@ This repository contains a collection of Data Structures and Algorithms implemen
 10. [Find out how many times has an array been rotated](./Binary%20Search/BS%20on%201D%20arrays/how%20many%20times%20the%20array%20has%20been%20rotated.md)
 11. [Single element in a Sorted Array](./Binary%20Search/BS%20on%201D%20arrays/540.%20Single%20Element%20in%20a%20Sorted%20Array.md)
 12. [Find peak element](./Binary%20Search/BS%20on%201D%20arrays/162.%20Find%20Peak%20Element.md)
+
+**BS on Answers**
+1. [Find square root of a number in log n](./Binary%20Search/BS%20on%20Answers/Sqrt%20of%20a%20number.md)
+2. [Find the Nth root of a number using binary search](./Binary%20Search/BS%20on%20Answers/Nth%20Root%20of%20a%20Number.md)
+3. [Koko Eating Bananas](./Binary%20Search/BS%20on%20Answers/875.%20Koko%20Eating%20Bananas.md)
+4. [Minimum days to make M bouquets](./Binary%20Search/BS%20on%20Answers/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.md)
+5. [Find the smallest Divisor](./Binary%20Search/BS%20on%20Answers/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.md)
+6. [Capacity to Ship Packages within D Days](./Binary%20Search/BS%20on%20Answers/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)
+7. [Kth Missing Positive Number](./Binary%20Search/BS%20on%20Answers/1539.%20Kth%20Missing%20Positive%20Number.md)
+8. [Aggressive Cows](./Binary%20Search/BS%20on%20Answers/Aggressive%20Cows.md)
+9. [Book Allocation Problem](./Binary%20Search/BS%20on%20Answers/Allocate%20Minimum%20Number%20of%20Pages.md)
+10. [Split array - Largest Sum](./Binary%20Search/BS%20on%20Answers/410.%20Split%20Array%20Largest%20Sum.md)
+11. [Painter's partition](./Binary%20Search/BS%20on%20Answers/Painter's%20Partition.md)
+12. [Minimize Max Distance to Gas Station](./Binary%20Search/BS%20on%20Answers/Minimize%20Max%20Distance%20to%20Gas%20Station.md)
+13. [Median of 2 sorted arrays](./Binary%20Search/BS%20on%20Answers/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+14. [Kth element of 2 sorted arrays](./Binary%20Search/BS%20on%20Answers/K-th%20Element%20of%20two%20sorted%20arrays.md)
+
 
 To be continued...
