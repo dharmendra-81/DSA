@@ -21,6 +21,7 @@ This repository contains a collection of Data Structures and Algorithms implemen
 - [[Sum of digits of the number]]
 - [[Swap two elements using function]]
 
+---
 ## 2. Pattern
 - [[Right angled triangle]]
 - [[Triangle with numbers]]
@@ -39,11 +40,13 @@ This repository contains a collection of Data Structures and Algorithms implemen
 - [[Hollow Rectangle]]
 - [[The Number]]
 
+---
 ## 3. Recursion
 - [Basic Recursion I](./Recursion/Basic%20Recursion%20I.md)
 - [Basic Recursion  II](./Recursion/Basic%20Recursion%20%20II.md)
 - [Basic Recursion III](./Recursion/Basic%20Recursion%20III.md)
 
+---
 ## 4. Hashing
 - [Number Hashing](./Hashing/Number%20Hashing.md)
 - [Number Hashing using map](/Hashing/Number%20Hashing%20using%20map.md)
@@ -51,6 +54,7 @@ This repository contains a collection of Data Structures and Algorithms implemen
 - [Character Hashing](./Hashing/Character%20Hashing.md)
 - [Highest or lowest frequency element](./Hashing/Highest%20or%20lowest%20frequency%20element.md)
 
+---
 ## 5.  Searching & Sorting
 - [Linear Search](./Searching%20&%20Sorting/Linear%20Search.md)
 - [Binary Search](./Searching%20&%20Sorting/Binary%20Search.md)
@@ -60,6 +64,8 @@ This repository contains a collection of Data Structures and Algorithms implemen
 - [Merge Sort](./Searching%20&%20Sorting/Merge%20Sort.md)
 - [Quick Sort](./Searching%20&%20Sorting/Quick%20Sort.md)
 - [Recursive Bubble and Insertion Sort](./Searching%20&%20Sorting/Recursive%20Bubble%20Insertion.md)
+
+---
 ## 6. Array
 **EASY**
 1. [Second Largest Element in an Array without sorting](./Array/Easy/Second%20Smallest%20and%20Second%20Largest%20Element.md)
@@ -102,6 +108,7 @@ This repository contains a collection of Data Structures and Algorithms implemen
 11. [Count Reverse Pairs](./Array/Hard/493.%20Reverse%20Pairs.md)
 12. [Maximum Product Subarray in an Array](./Array/Hard/152.%20Maximum%20Product%20Subarray.md)
 
+---
 ## 7. Binary Search
 **BS on 1D Arrays**
 1. [Implement Lower Bound](./Binary%20Search/BS%20on%201D%20arrays/Implement%20Lower%20Bound.md)
@@ -132,6 +139,21 @@ This repository contains a collection of Data Structures and Algorithms implemen
 12. [Minimize Max Distance to Gas Station](./Binary%20Search/BS%20on%20Answers/Minimize%20Max%20Distance%20to%20Gas%20Station.md)
 13. [Median of 2 sorted arrays](./Binary%20Search/BS%20on%20Answers/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 14. [Kth element of 2 sorted arrays](./Binary%20Search/BS%20on%20Answers/K-th%20Element%20of%20two%20sorted%20arrays.md)
+
+**BS on 2D Arrays**
+1. [Find the row with maximum number of 1's](./Binary%20Search/BS%20on%202D%20Arrays/Find%20the%20row%20with%20maximum%20number%20of%201's.md)
+2. [Search in a 2 D matrix](./Binary%20Search/BS%20on%202D%20Arrays/74.%20Search%20a%202D%20Matrix.md)
+3. [Search in a row and column wise sorted matrix](./Binary%20Search/BS%20on%202D%20Arrays/240.%20Search%20a%202D%20Matrix%20II.md)
+4. [Find Peak Element (2D Matrix)](./Binary%20Search/BS%20on%202D%20Arrays/1901.%20Find%20a%20Peak%20Element%20II.md)
+5. [Matrix Median](./Binary%20Search/BS%20on%202D%20Arrays/Median%20of%20Row%20Wise%20Sorted%20Matrix.md)
+
+---
+## 8. Strings(Basic and Medium Problems)
+
+**Basic Problems**
+
+1. [Remove outermost Paranthesis](./Strings/Basic%20Problems/1021.%20Remove%20Outermost%20Parentheses.md)
+
 
 
 To be continued...

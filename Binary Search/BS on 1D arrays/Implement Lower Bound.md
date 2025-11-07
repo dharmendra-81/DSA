@@ -20,3 +20,25 @@ int lowerBound(vector<int> arr, int n, int x){
     return ans;
 }
 ```
+
+
+# Optimal
+```cpp
+int rowWithMax1s(vector<vector<int>> &matrix, int n, int m) {
+    int cnt_max = 0;
+    int index = -1;
+    //traverse the rows:
+    for (int i = 0; i < n; i++) {
+        // get the number of 1's:
+        int cnt_ones = m - lowerBound(matrix[i], m, 1);
+        if (cnt_ones > cnt_max) {
+            cnt_max = cnt_ones;
+            index = i;
+        }
+    }
+    return index;
+}
+O(n X logm)
+```
+
+
