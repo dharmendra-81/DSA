@@ -38,7 +38,7 @@ void nStarDiamond(int n) {
     {
         for (int j=0;j<2*n-1;j++)
         {
-            if ((n-i-j>1) || (i-j>n)){
+            if ((i+j<n-1) || (i-j>n)){
               cout<<" ";
             }
             else if((j-i==n) || (i+j==3*n-1)){

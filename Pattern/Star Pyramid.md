@@ -32,7 +32,7 @@ class Solution {
         {
             for (int j=0;j<2*n-1;j++)
             {
-                if (n-i-j>1){
+                if (i+j < n-1){
                   cout<<" ";
                 }
                 else if(j-i==n){
