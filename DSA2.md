@@ -28,4 +28,14 @@
 14. [Add 1 to a Linked List Number](./Linked%20List/Medium%20LL%20Problems/Add%201%20to%20a%20Linked%20List%20Number.cpp)
 15. [2. Add Two Numbers](./Linked%20List/Medium%20LL%20Problems/Add%20Two%20Numbers.cpp)
 
-##
+#### DLL
+16. [Reverse a Doubly Linked List](./Linked%20List/Medium%20LL%20Problems/Reverse%20a%20Doubly%20Linked%20List.cpp)
+17. [Delete all occurrences of a key in DLL](./Linked%20List/Medium%20LL%20Problems/Delete%20all%20occurrences%20of%20a%20key%20in%20DLL.cpp)
+18. [Pair Sum in Doubly Linked List](./Linked%20List/Medium%20LL%20Problems/Pair%20Sum%20in%20Doubly%20Linked%20List.cpp)
+19. [Remove duplicates from sorted DLL](./Linked%20List/Medium%20LL%20Problems/Remove%20duplicates%20from%20sorted%20DLL.cpp)
+
+## Hard Linked List Problems
+1. [25. Reverse Nodes in k-Group](./Linked%20List/Hard%20LL%20Problems/Reverse%20Nodes%20in%20k-Group.cpp)
+2. [61. Rotate List](./Linked%20List/Hard%20LL%20Problems/Rotate%20List.cpp)
+3. [Flattening a Linked List](./Linked%20List/Hard%20LL%20Problems/Flattening%20a%20Linked%20List.cpp)
+4. [138. Copy List with Random Pointer](./Linked%20List/Hard%20LL%20Problems/Copy%20List%20with%20Random%20Pointer.cpp)
