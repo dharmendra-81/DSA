@@ -39,10 +39,10 @@
 - [[The Number]]
 
 ---
-## 3. Recursion
-- [Basic Recursion I](./Recursion/Basic%20Recursion%20I.md)
-- [Basic Recursion  II](./Recursion/Basic%20Recursion%20%20II.md)
-- [Basic Recursion III](./Recursion/Basic%20Recursion%20III.md)
+## 3. Recursion Intro
+- [Basic Recursion I](./Recursion/Get%20a%20Strong%20Hold/Basic%20Recursion%20I.md)
+- [Basic Recursion  II](./Recursion/Get%20a%20Strong%20Hold/Basic%20Recursion%20%20II.md)
+- [Basic Recursion III](./Recursion/Get%20a%20Strong%20Hold/Basic%20Recursion%20III.md)
 
 ---
 ## 4. Hashing
@@ -91,6 +91,7 @@
 11. [Rotate Matrix by 90 degrees](./Array/Medium/48.%20Rotate%20Image.md)
 12. [Print the matrix in spiral manner](./Array/Medium/54.%20Spiral%20Matrix.md)
 13. [Count subarrays with given sum](./Array/Medium/560.%20Subarray%20Sum%20Equals%20K.md)
+14. [3960. Frequency Balance Subarray](./Array/Medium/Frequency%20Balance%20Subarray.cpp)
 
 **Hard**
 1. [Pascal's Triangle](./Array/Hard/118.%20Pascal's%20Triangle.md)
@@ -145,4 +146,11 @@
 4. [Find Peak Element (2D Matrix)](./Binary%20Search/BS%20on%202D%20Arrays/1901.%20Find%20a%20Peak%20Element%20II.md)
 5. [Matrix Median](./Binary%20Search/BS%20on%202D%20Arrays/Median%20of%20Row%20Wise%20Sorted%20Matrix.md)
 
+---
+## Strings(Basic and Medium Problems)
+
+**Basic Problems**
+
+1. [Remove outermost Paranthesis](./Strings/Basic%20Problems/1021.%20Remove%20Outermost%20Parentheses.md)
+2. []
 ### The End...

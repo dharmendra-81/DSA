@@ -39,3 +39,22 @@
 2. [61. Rotate List](./Linked%20List/Hard%20LL%20Problems/Rotate%20List.cpp)
 3. [Flattening a Linked List](./Linked%20List/Hard%20LL%20Problems/Flattening%20a%20Linked%20List.cpp)
 4. [138. Copy List with Random Pointer](./Linked%20List/Hard%20LL%20Problems/Copy%20List%20with%20Random%20Pointer.cpp)
+
+## Recursion 
+
+#### Get a Strong Hold
+
+1. [8. String to Integer (atoi)](./Recursion/Get%20a%20Strong%20Hold/String%20to%20Integer%20(atoi).cpp) 
+2. [50. Pow(x, n)](./Recursion/Get%20a%20Strong%20Hold/Pow(x,%20n).cpp)
+3. [1922. Count Good Numbers](./Recursion/Get%20a%20Strong%20Hold/Count%20Good%20Numbers.cpp)
+4. [Sort a stack](./Recursion/Get%20a%20Strong%20Hold/Sort%20a%20stack.cpp)
+5. [Reverse a Stack](./Recursion/Get%20a%20Strong%20Hold/Reverse%20a%20Stack.cpp)
+
+### Subsequences Pattern
+
+1. [Generate all binary strings](./Recursion/Subsequences%20Pattern/Generate%20all%20binary%20strings.cpp)
+2. [22. Generate Parentheses](./Recursion/Subsequences%20Pattern/Generate%20Parentheses.cpp)
+3. [All Subsequences of a String](./Recursion/Subsequences%20Pattern/All%20Subsequences%20of%20a%20String.cpp)
+4. [Subsequence with Sum K](./Recursion/Subsequences%20Pattern/Subsequence%20with%20Sum%20K.cpp)
+5. [39. Combination Sum](./Recursion/Subsequences%20Pattern/Combination%20Sum.cpp)
+6. 
