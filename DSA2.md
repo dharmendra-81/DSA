@@ -57,4 +57,8 @@
 3. [All Subsequences of a String](./Recursion/Subsequences%20Pattern/All%20Subsequences%20of%20a%20String.cpp)
 4. [Subsequence with Sum K](./Recursion/Subsequences%20Pattern/Subsequence%20with%20Sum%20K.cpp)
 5. [39. Combination Sum](./Recursion/Subsequences%20Pattern/Combination%20Sum.cpp)
-6. 
+6. [40. Combination Sum II](./Recursion/Subsequences%20Pattern/Combination%20Sum%20II.cpp)
+7. [90. Subsets II](./Recursion/Subsequences%20Pattern/Subsets%20II.cpp)
+8. [216. Combination Sum III](./Recursion/Subsequences%20Pattern/Combination%20Sum%20III.cpp)
+9. [17. Letter Combinations of a Phone Number](./Recursion/Subsequences%20Pattern/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
+
