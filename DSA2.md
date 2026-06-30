@@ -62,3 +62,15 @@
 8. [216. Combination Sum III](./Recursion/Subsequences%20Pattern/Combination%20Sum%20III.cpp)
 9. [17. Letter Combinations of a Phone Number](./Recursion/Subsequences%20Pattern/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
 
+### Trying out all combinations
+
+1. [131. Palindrome Partitioning](./Recursion/Trying%20out%20all%20combinations/Palindrome%20Partitioning.cpp)
+2. [79. Word Search](./Recursion/Trying%20out%20all%20combinations/Word%20Search.cpp)
+3. [51. N-Queens](./Recursion/Trying%20out%20all%20combinations/N-Queens.cpp)
+4. [Rat in a Maze](./Recursion/Trying%20out%20all%20combinations/Rat%20in%20a%20Maze.cpp)
+5. [139. Word Break](./Recursion/Trying%20out%20all%20combinations/Word%20Break.cpp)
+6. [M-Coloring Problem](./Recursion/Trying%20out%20all%20combinations/M-Coloring%20Problem.cpp)
+7. [37. Sudoku Solver](./Recursion/Trying%20out%20all%20combinations/Sudoku%20Solver.cpp)
+8. [282. Expression Add Operators](./Recursion/Trying%20out%20all%20combinations/Expression%20Add%20Operators.cpp)
+
+## new topic
