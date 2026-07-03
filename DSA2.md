@@ -73,4 +73,16 @@
 7. [37. Sudoku Solver](./Recursion/Trying%20out%20all%20combinations/Sudoku%20Solver.cpp)
 8. [282. Expression Add Operators](./Recursion/Trying%20out%20all%20combinations/Expression%20Add%20Operators.cpp)
 
-## new topic
+## Bit Manipulation
+
+### Learn Bit Manipulation
+
+1. [Swap two numbers](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Swap%20two%20numbers.cpp)
+2. [k-th bit is Set or Not](./Bit%20Manipulation/Learn%20Bit%20Manipulation/k-th%20bit%20is%20Set%20or%20Not.cpp)
+3. [Set kth bit](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Set%20kth%20bit.cpp)
+4. [Remove the last set bit](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Remove%20the%20last%20set%20bit.cpp)
+5. [Set/Unset the rightmost unset bit](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Rightmost%20unset%20bit.cpp)
+6. [191. Number of 1 Bits](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Number%20of%201%20Bits.cpp)
+7. [231. Power of Two](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Power%20of%20Two.cpp)
+8. [29. Divide Two Integers](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Divide%20Two%20Integers.cpp)
+
