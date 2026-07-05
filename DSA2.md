@@ -86,3 +86,10 @@
 7. [231. Power of Two](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Power%20of%20Two.cpp)
 8. [29. Divide Two Integers](./Bit%20Manipulation/Learn%20Bit%20Manipulation/Divide%20Two%20Integers.cpp)
 
+### Practice Bit Manipulation
+
+1. [2220. Minimum Bit Flips to Convert Number](./Bit%20Manipulation/Practice%20Bit%20Manipulation/Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp)
+2. [136. Single Number](./Array/Easy/Single%20Number.cpp)
+3. [78. Subsets](./Bit%20Manipulation/Practice%20Bit%20Manipulation/Subsets.cpp)
+4. [XOR of a Number Range](./Bit%20Manipulation/Practice%20Bit%20Manipulation/XOR%20of%20a%20Number%20Range.cpp)
+5. [260. Single Number III](./Bit%20Manipulation/Practice%20Bit%20Manipulation/Single%20Number%20III.cpp)
