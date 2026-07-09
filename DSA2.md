@@ -93,3 +93,18 @@
 3. [78. Subsets](./Bit%20Manipulation/Practice%20Bit%20Manipulation/Subsets.cpp)
 4. [XOR of a Number Range](./Bit%20Manipulation/Practice%20Bit%20Manipulation/XOR%20of%20a%20Number%20Range.cpp)
 5. [260. Single Number III](./Bit%20Manipulation/Practice%20Bit%20Manipulation/Single%20Number%20III.cpp)
+6. [137. Single Number II](./Bit%20Manipulation/Practice%20Bit%20Manipulation/Single%20Number%20II.cpp)
+
+## Stack and Queue
+
+### Learning
+
+1. [Implement stack using array](./Stack%20and%20Queue/Learning/Implement%20stack%20using%20array.cpp)
+2. [Implement Queue using Array](./Stack%20and%20Queue/Learning/Queue%20Using%20Array.cpp)
+3. [Implement stack using Linkedlist](./Stack%20and%20Queue/Learning/Implement%20stack%20using%20Linkedlist.cpp)
+4. [Implement queue using Linkedlist](./Stack%20and%20Queue/Learning/Queue%20using%20Linked%20List.cpp)
+5. [Implement Stack using Queues](./Stack%20and%20Queue/Learning/Implement%20Stack%20using%20Queues.cpp)
+6. [Implement Queue using Stacks](./Stack%20and%20Queue/Learning/Implement%20Queue%20using%20Stacks.cpp)
+7. [Valid Parentheses](./Stack%20and%20Queue/Learning/Valid%20Parentheses.cpp)
+8. [Implement Min Stack](./Stack%20and%20Queue/Learning/Min%20Stack.cpp)
+
