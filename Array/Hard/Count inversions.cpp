@@ -1,4 +1,4 @@
-// #### Brute force : O($n^2$)
+// Brute force : O($n^2$)
 int numberOfInversions(vector<int>&a, int n) {
     int cnt = 0;
     for (int i = 0; i < n-1; i++) {
@@ -9,11 +9,11 @@ int numberOfInversions(vector<int>&a, int n) {
     return cnt;
 }
 
-// #### Optimal Approach : O($N*logN$)
+// Optimal Approach : O($N*logN$)
 int merge(vector<int> &arr, int low, int mid, int high) {
-    vector<int> temp; // temporary array
-    int left = low;      // starting index of left half of arr
-    int right = mid + 1;   // starting index of right half of arr
+    vector<int> temp; 
+    int left = low;      
+    int right = mid + 1;   
     //Modification 1: cnt variable to count the pairs:
     int cnt = 0;
     //storing elements in the temporary array in a sorted manner//

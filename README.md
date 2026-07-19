@@ -3,8 +3,14 @@ This repository contains a collection of Data Structures and Algorithms implemen
 
 ---
 
-## Part 1
-[[Click here]](./DSA1.md)
-
-## Part 2
-[[Click here]](./DSA2.md)
+1. [Pattern](./Contents/Pattern.md)
+2. [Maths](./Contents/Maths.md)
+3. [Hashing](./Contents/Hashing.md)
+4. [Searching & Sorting](./Contents/Searching%20&%20Sorting.md)
+5. [Arrays](./Contents/Array.md)
+6. [Binary Search](./Binary%20Search/)
+7. [Strings](./Contents/Strings.md)
+8. [Recursion](./Contents/Recursion.md)
+9. [Linked List](./Linked%20List/)
+10. [Bit Manipulation](./Contents/Bit%20Manipulation.md)
+11. [Stack and Queue](./Contents/Stack%20and%20Queue.md)
