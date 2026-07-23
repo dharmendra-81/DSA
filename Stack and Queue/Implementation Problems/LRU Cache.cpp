@@ -32,11 +32,6 @@ public:
         temp->prev = newNode;
     }
 
-    void moveToFront(Node* node) {
-        deleteNode(node);
-        addNode(node);
-    }
-
     void deleteNode(Node* delNode) {
         Node* delPrev = delNode->prev;
         Node* delNext = delNode->next;
@@ -64,9 +59,8 @@ public:
         }
 
         if(mp.size() == capacity){
-            Node* lru = tail->prev;
-            mp.erase(lru->key);
-            deleteNode(lru);
+            mp.erase(tail->prev->key);
+            deleteNode(tail->prev);
         }
 
         Node* node = new Node(key, value);

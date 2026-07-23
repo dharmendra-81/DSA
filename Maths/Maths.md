@@ -1,0 +1,16 @@
+## Maths
+
+1. [Sum of digits](./Sum%20of%20digits.md)
+2. [Reverse of a number](./Reverse%20of%20a%20number.md)
+3. [Palindrome or not](./Palindrome%20or%20not.md)
+4. [Binary and Decimal number](./Binary%20and%20Decimal%20number.cpp)
+5. [HCF of two numbers](./HCF%20of%20two%20numbers.cpp)
+6. [LCM of two numbers](./LCM%20of%20two%20numbers.cpp)
+7. [All Divisors of a Number](./All%20Divisors%20of%20a%20Number.cpp)
+8. [Leap year](./Leap%20year%20program.md)
+9. [Factorial n](./Factorial%20of%20a%20number.md)
+10. [Fibonacci sequence up to nth value and its sum](./Fibonacci%20sequence%20up%20to%20nth%20value%20and%20its%20sum.md)
+11. [Prime number](./Prime%20number.cpp)
+12. [Prime Factors](./Prime%20Factors.cpp)
+13. [204. Count Primes](./Count%20Primes.cpp)
+14. [Armstrong numbers between 1 to 100](./Armstrong%20numbers%20between%201%20to%20100.md)
