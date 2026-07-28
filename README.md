@@ -15,4 +15,5 @@ This repository contains a collection of Data Structures and Algorithms implemen
 10. [Bit Manipulation](./Bit%20Manipulation/Bit%20Manipulation.md)
 11. [Stack and Queue](./Stack%20and%20Queue/Stack%20and%20Queue.md)
 12. [Sliding Window and Two Pointer](./Sliding%20Window%20and%20Two%20Pointer/Sliding%20Window%20and%20Two%20Pointer.md)
+13. [Heaps](./Heaps/heaps.md)
 

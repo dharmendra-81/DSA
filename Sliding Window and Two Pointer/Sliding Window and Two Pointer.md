@@ -9,5 +9,12 @@
 5. [Longest Repeating Character Replacement](./Medium/Longest%20Repeating%20Character%20Replacement.cpp)
 6. [Binary Subarrays With Sum](./Medium/Binary%20Subarrays%20With%20Sum.cpp)
 7. [Number of Substrings Containing All Three Characters](./Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters.cpp)
-8. 
+8. [Count Number of Nice Subarrays](./Medium/Count%20Number%20of%20Nice%20Subarrays.cpp)
+
+## Hard
+
+1. [Longest Substring With At Most K Distinct Characters](./Hard/Longest%20Substring%20With%20At%20Most%20K%20Distinct%20Characters.cpp)
+2. [Subarrays with K Different Integers](./Hard/Subarrays%20with%20K%20Different%20Integers.cpp)
+3. [Minimum Window Substring](./Hard/Minimum%20Window%20Substring.cpp)
+4. [Minimum Window Subsequence](./Hard/Minimum%20Window%20Subsequence.cpp)
 
