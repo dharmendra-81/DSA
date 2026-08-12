@@ -16,4 +16,5 @@ This repository contains a collection of Data Structures and Algorithms implemen
 11. [Stack and Queue](./Stack%20and%20Queue/Stack%20and%20Queue.md)
 12. [Sliding Window and Two Pointer](./Sliding%20Window%20and%20Two%20Pointer/Sliding%20Window%20and%20Two%20Pointer.md)
 13. [Heaps](./Heaps/heaps.md)
+14. [Binary Tree](./Binary%20Tree/Binary%20Tree.md)
 
