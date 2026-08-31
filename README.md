@@ -17,4 +17,5 @@ This repository contains a collection of Data Structures and Algorithms implemen
 12. [Sliding Window and Two Pointer](./Sliding%20Window%20and%20Two%20Pointer/Sliding%20Window%20and%20Two%20Pointer.md)
 13. [Heaps](./Heaps/heaps.md)
 14. [Binary Tree](./Binary%20Tree/Binary%20Tree.md)
+15. [Binary Search Tree](./Binary%20Tree/Binary%20Search%20Tree.md)
 
