@@ -20,3 +20,4 @@ This repository contains a collection of Data Structures and Algorithms implemen
 15. [Binary Tree](./Binary%20Tree/Binary%20Tree.md)
 16. [Binary Search Tree](./Binary%20Tree/Binary%20Search%20Tree.md)
 17. [Graphs](./Graphs/Graphs.md)
+18. [Dynamic Programming](./Dynamic%20Programming/Dynamic%20Programming.md)
