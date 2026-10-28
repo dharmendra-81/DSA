@@ -19,7 +19,7 @@
 2. [Sort an array of 0's 1's and 2's](./Medium/75.%20Sort%20Colors.md)
 3. [Majority Element (>n/2 times)](./Medium/169.%20Majority%20Element.md)
 4. [Kadane's Algorithm, maximum subarray sum](./Medium/53.%20Maximum%20Sub-array.md)
-5. [Stock Buy and Sell](./Medium/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+5. [Stock Buy and Sell](../Dynamic%20Programming/Stocks/Buy%20and%20Sell%20Stocks%201.cpp)
 6. [Rearrange the array in alternating positive and negative items](./Medium/2149.%20Rearrange%20Array%20Elements%20by%20Sign.md)
 7. [Next Permutation](./Medium/31.%20Next%20Permutation.md)
 8. [Leaders in an problem](./Medium%20Leaders.md)
