@@ -1,15 +1,12 @@
-The **beauty** of a string is the difference in frequencies between the most frequent and least frequent characters.
-- For example, the beauty of `"abaacc"` is `3 - 1 = 2`.
-Given a string `s`, return _the sum of **beauty** of all of its substrings._
-
----
-```cpp
-int beautySum(string s) {
-        int sum=0;
+// O(n^2)
+class Solution {
+public:
+    int beautySum(string s) {
+        int sum = 0;
         //loop over all substr
-        for(int i=0; i<s.length(); i++){
+        for(int i = 0; i < s.length(); i++){
             unordered_map<char, int> freq;
-            for(int j=i; j<s.length(); j++){
+            for(int j = i; j < s.length(); j++){
                 freq[s[j]]++;
                 int maxi = INT_MIN;
                 int mini = INT_MAX;
@@ -25,6 +22,5 @@ int beautySum(string s) {
         }
         return sum;
     }
-```
-O($N^2)$x26)
+};
 
